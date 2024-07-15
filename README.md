@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derrick</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-- 📫 How to reach me **wawerumuturi57@gmail.com**
+📫 How to reach me **wawerumuturi57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
