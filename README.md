@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Derrick</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">If brain(!empty) keepcoding() </h3>
+<h3 align="center">else orderCoffee() </h3>
 
 📫 How to reach me **wawerumuturi57@gmail.com**
 
