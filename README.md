@@ -1,11 +1,11 @@
 
 # Hi, 👋 I'm Derrick Muturi
 
-I enjoy solving problems with innovative solutions, whether it's through web development, backend services, or experimenting with machine learning.
+I craft innovative software solutions.
 
 ### 🔭 What I'm Currently Working On
 
-- 🚧 Building a **customizable resume builder** using Next.js, Tailwind CSS, and Appwrite to help job seekers create unique, professional resumes effortlessly.
+- 🚧 Building a **customizable resume builder** using Next.js, Tailwind CSS, and Appwrite.
 - 📈 Exploring **machine learning** algorithms to enhance my knowledge of data science.
 
 
