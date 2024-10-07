@@ -6,7 +6,7 @@ I craft innovative software solutions.
 ### 🔭 What I'm Currently Working On
 
 - 🚧 Building a **customizable resume builder** using Next.js, Tailwind CSS, and Appwrite.
-- 📈 Exploring **machine learning** algorithms to enhance my knowledge of data science.
+- 📈 Exploring **machine learning** algorithms.
 
 
 ### 🌐 Let's Connect
