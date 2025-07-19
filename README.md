@@ -5,8 +5,8 @@ I craft innovative software solutions.
 
 ### 🔭 What I'm Currently Working On
 
-- 🚧 Building a **customizable resume builder** using Next.js, Tailwind CSS, and Appwrite.
-- 📈 Exploring **machine learning** algorithms.
+- 🚧 Building a **congrats.ai** using React, Tailwind CSS, and Supabase.
+- 📈 Exploring **deep learning and ai engineering**.
 
 
 ### 🌐 Let's Connect
