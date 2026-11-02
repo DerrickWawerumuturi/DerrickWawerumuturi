@@ -65,15 +65,7 @@ Two projects where the first version looked good and was wrong. Finding out why 
 
 ## Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DerrickWawerumuturi&bg_color=1c1a17&color=f7f3ef&line=f5532a&point=d7ee4c&area=true&area_color=f5532a&hide_border=true&radius=8">
-  <img alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=DerrickWawerumuturi&bg_color=f7f3ef&color=21201c&line=f5532a&point=21201c&area=true&area_color=f5532a&hide_border=true&radius=8">
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DerrickWawerumuturi&background=1c1a17&ring=f5532a&fire=f5532a&currStreakNum=f7f3ef&sideNums=f7f3ef&currStreakLabel=d7ee4c&sideLabels=a8a29a&dates=a8a29a&stroke=3a3632&hide_border=true">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=DerrickWawerumuturi&background=f7f3ef&ring=f5532a&fire=f5532a&currStreakNum=21201c&sideNums=21201c&currStreakLabel=21201c&sideLabels=63635e&dates=63635e&stroke=e1dcd4&hide_border=true">
-</picture>
 
 ## Say hello
 
