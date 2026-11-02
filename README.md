@@ -63,9 +63,6 @@ Two projects where the first version looked good and was wrong. Finding out why 
 
 [![Stack](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,fastapi,pytorch,sklearn,postgres,docker,azure,vercel,c&perline=13)](https://skillicons.dev)
 
-## Activity
-
-
 
 ## Say hello
 
